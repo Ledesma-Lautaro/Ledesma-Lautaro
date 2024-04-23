@@ -55,7 +55,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Ledesma-Lautaro/Ledesma-Lautaro/output/snake.svg" alt="Snake animation" />
-
 
 ###
